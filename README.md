@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**abhishekb-pm/abhishekb-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager with experience in **Food Delivery** and **Fintech Lending**.
 
-Here are some ideas to get you started:
+I use this space to explore product ideas through data, prototypes and lightweight tools — turning PM instincts into things you can actually run and poke at.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+
+- 📊 **Data notebooks** — analytical explorations of real product problems
+- 🛠️ **Prototypes** — clickable artifacts built from product specs
+- 🔍 **Tools** — lightweight utilities that reflect how I think about product
+
+## Background
+
+- Built and scaled products in food delivery operations, consumer growth, and lending
+- Obsessed with the intersection of user trust, pricing, and ops reliability
+- Currently exploring: AI-assisted product development, lending explainability, regulatory tech
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/abhishek-bhardwaj-ntu/)
