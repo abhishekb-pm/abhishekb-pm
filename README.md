@@ -14,7 +14,8 @@ I use this space to explore product ideas through data, prototypes and lightweig
 
 - Built and scaled products in food delivery operations, consumer growth, and lending
 - Obsessed with the intersection of user trust, pricing, and ops reliability
-- Currently exploring: AI-assisted product development, lending explainability, regulatory tech
+- I build tools that give PMs better information faster.
+
 
 ## Let's connect
 
